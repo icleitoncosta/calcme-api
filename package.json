@@ -73,7 +73,7 @@
     "file-type": "~16.5.4",
     "fs": "^0.0.1-security",
     "jest": "^29.7.0",
-    "node-fetch": "^3.3.0",
+    "node-fetch": "^3.3.2",
     "parse-data-url": "^4.0.1",
     "prettier": "^2.8.8",
     "pretty-quick": "^3.1.3",
