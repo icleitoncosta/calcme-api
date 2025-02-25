@@ -82,7 +82,7 @@
     "ts-jest": "^29.0.5",
     "ts-loader": "^9.4.2",
     "ts-morph": "^17.0.1",
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.2",
     "typedoc": "^0.23.25",
     "typedoc-plugin-mdn-links": "^2.0.2",
     "typedoc-plugin-missing-exports": "^1.0.0",
